@@ -70,7 +70,7 @@ if data:
     fields = {
         'house_number': 'House Number',
         'road': 'Street',
-        'city': 'City',
+        'city': 'City', #tuple
         'town': 'Town', 
         'village': 'Village',
         'postcode': 'Postcode',
